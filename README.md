@@ -40,7 +40,8 @@ The Online Bookstore Application was built using the following technologies:
 - npm run dev
 - server is running on http://localhost:5000
 
-### Home Page 1(https://github.com/muskan13-tech/OnlineBookApp/blob/master/ScreenShot/Cart.png)
+### Home Page 1
+![Model](https://github.com/muskan13-tech/OnlineBookApp/blob/master/ScreenShot/Cart.png)
 ### Home Page 2 (https://github.com/muskan13-tech/OnlineBookApp/blob/master/ScreenShot/Home2.png)
 ### Cart (https://github.com/muskan13-tech/OnlineBookApp/blob/master/ScreenShot/Cart.png)
 ### Login page (https://github.com/muskan13-tech/OnlineBookApp/blob/master/ScreenShot/Login.png)
