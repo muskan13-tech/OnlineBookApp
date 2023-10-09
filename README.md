@@ -37,7 +37,11 @@ The Online Bookstore Application was built using the following technologies:
 - Mongoose: A MongoDB object modeling tool for Node.js.
 - JSON Web Tokens (JWT): Used for user authentication and authorization.
 - cd backend
-- npm start
+- npm run dev
+- server is running on http://localhost:5000
+
+### Screenshots
+
 
 ## Installation and Setup
 
