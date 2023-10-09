@@ -51,7 +51,7 @@ export const Searchbar = () => {
               <Input
                 type="search"
                 onChange={(e) => setQuery(e.target.value)}
-                placeholder="Search for a Movie..."
+                placeholder="Search for a Book..."
               />
               <InputRightElement
                 children={
