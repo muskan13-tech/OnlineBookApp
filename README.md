@@ -1,8 +1,12 @@
 # Online Bookstore Application
 
-## Deployment
-
-The Online Bookstore Application is currently deployed on Vercel. You can access the live version of the app by following this link: <a href="https://bookapp-zeta.vercel.app/">Online Bookstore Application on Vercel</a>.
+## Pictures
+![homePage](Home.png)
+![homePage2](Home2.png)
+![loginPage](Login.png)
+![cartPage](Cart.png)
+![PlaceOrderPage](PlaceOrder.png)
+![SignUpPage](SignUp.png)
 
 ## Features
 
@@ -42,6 +46,3 @@ The Online Bookstore Application was built using the following technologies:
 ## Installation and Setup
 
 To run the Online Bookstore Application locally, follow these steps:
-
-1. Clone the repository
-2. Backend Api : https://fuzzy-erin-gaiters.cyclic.app/
