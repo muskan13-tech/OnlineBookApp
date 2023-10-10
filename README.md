@@ -1,8 +1,8 @@
 # Online Bookstore Application
 
 ## Pictures
-![homePage](Home.png)
-![homePage2](Home2.png)
+![homePage](./Home.png)
+![homePage2](./Home2.png)
 ![loginPage](Login.png)
 ![cartPage](Cart.png)
 ![PlaceOrderPage](PlaceOrder.png)
