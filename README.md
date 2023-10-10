@@ -46,3 +46,6 @@ The Online Bookstore Application was built using the following technologies:
 ## Installation and Setup
 
 To run the Online Bookstore Application locally, follow these steps:
+- Clone the respository 
+- Run the commands
+
