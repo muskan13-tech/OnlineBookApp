@@ -1,8 +1,8 @@
 # Online Bookstore Application
 
 ## Pictures
-![homePage](./Home.png)
-![homePage2](./Home2.png)
+![homePage](Home.png)
+![homePage2](Home2.png)
 ![loginPage](Login.png)
 ![cartPage](Cart.png)
 ![PlaceOrderPage](PlaceOrder.png)
@@ -32,6 +32,7 @@ The Online Bookstore Application was built using the following technologies:
 - React Router: A library for handling routing within a React application.
 - cd frontend
 - npm start
+- http://192.168.28.212:3000/
 
 ### Back-end
 
